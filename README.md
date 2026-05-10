@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sesh-gaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sesh Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh-gaan/) |
+| **Get License** | [Get License For Sesh Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh-gaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d8bea4d9c6766188468955144a7052ce81d1f057f90a429e9a8412837839cc8a` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sesh Gaan
+
+This log tracks the cryptographic history and versioning for the song **Sesh Gaan** (sesh-gaan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T02:30:05.477141 | `v1` | `d8bea4d9c6766188468955144a7052ce81d1f057f90a429e9a8412837839cc8a` | `eb498b1482fea5eb5412e0c6c116ddcdae4c01defaf205f6dca021818a078f9c` | `2026-05-11_sesh-gaan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

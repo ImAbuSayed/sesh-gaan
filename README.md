@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sesh-gaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sesh Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh-gaan/) |
+| **Get License** | [Music Rights & Licensing for Sesh Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh-gaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এ রাতের গভীরে হারাই আমি বারবার
+> তোমার ঐ চোখের অতলে প্রেমের নীরব হাহাকার
+> অসীম এই শূন্যতায় তোমায় শুধু কাছে চাই
+> রাতের এই স্তব্ধতায় তোমারই প্রতিচ্ছবি পাই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
